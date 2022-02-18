@@ -40,7 +40,7 @@ class myFooter extends HTMLElement {
         <div>
           <p id="copyright">
             All rights Reserved Apparelly © 2022 | Dev by
-            <a href="#">Bismillah Kakar Aryan</a>
+            <a href="https://www.facebook.com/aryanbismillah">Bismillah Kakar Aryan</a>
           </p>
         </div>
         <div class="icons">
