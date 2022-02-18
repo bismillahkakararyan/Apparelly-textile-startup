@@ -38,6 +38,7 @@ navy: #14213d */
   background-color: transparent;
   border: none;
 }
+
 .menu a {
   text-decoration: none;
 }
@@ -106,6 +107,9 @@ navy: #14213d */
   }
   .nav_menu li a {
     color: white;
+  }
+  .dropbtn a {
+    color: rgb(255, 255, 255);
   }
   .nav-item1 {
     margin-top: 1.5rem;
@@ -325,7 +329,6 @@ p {
     max-width: 33.33%;
   }
 }
-
 
 /* contact page */
 
